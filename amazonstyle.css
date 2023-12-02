@@ -22,7 +22,7 @@
     height: 50px;
     width: 100%;
     background-size:cover;
-    background-image: url("amazon_PNG25.png");
+    background-image: url("images/amazon_PNG25.png");
     margin-top: 10px;
 }
 .border{
@@ -158,7 +158,7 @@ span{
 .hero-section{
     height: 300px;
     width: 100%;
-    background-image: url("banner.jpg");
+    background-image: url("images/banner.jpg");
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -204,7 +204,7 @@ span{
 }
 .one-img{
     height: 320px;
-    background-image: url('box5.jpg');
+    background-image: url('images/box5.jpg');
     background-size:cover;
     margin-top: 1rem;
     margin-bottom: 1.60rem;
